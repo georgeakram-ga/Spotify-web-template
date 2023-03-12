@@ -220,6 +220,6 @@ section svg:hover {
 }
 @media (max-width:767px){
     .col-2 {
-    height: 399vh;
+    height: 380vh;
      }
 }
